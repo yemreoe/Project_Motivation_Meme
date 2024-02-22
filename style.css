@@ -1,6 +1,7 @@
 body{
     background: black;
     color: white;
+    background-image: url("./assets/images/binary.gif");
     
 }
 h1{
@@ -13,7 +14,9 @@ img{
 }
 
 div{
+    border: solid 100px  black;
+    background-color: black;
     text-align: center;
     width: 50%;
-    margin-left: 25%;
+    margin: auto;
 }
